@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saijahnavi217@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wpnqeIKH8RZ6OEaa-qHHZaPt3j_moZgE/view?usp=sharing](https://drive.google.com/file/d/1wpnqeIKH8RZ6OEaa-qHHZaPt3j_moZgE/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1wpnqeIKH8RZ6OEaa-qHHZaPt3j_moZgE/view?usp=sharing](https://drive.google.com/file/d/1xGyrLZ-Akzc4_lhHv4ZehicwbHn-Exrs/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
