@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Tadikamalla</h1>
 <h3 align="center">A passionate Data Science and Testing Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavi-18&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavi-18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahnavi-18" alt="jahnavi-18" /></a> </p>
 
 - 🌱 I’m currently learning **Gen AI, Agentic AI, Git**
 
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jahnavi-tadikamalla-437497247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahnavi-tadikamalla-437497247" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jahnavi1517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jahnavi1517" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ap21110010655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ap21110010655" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jahnavi_tadikamalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jahnavi_tadikamalla" height="30" width="40" /></a>
 </p>
 
