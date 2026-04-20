@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavitadikamalla&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavitadikamalla" /> </p>
 
-- 🔭 I’m currently working on **Car pooling**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jahnavi-18](https://github.com/Jahnavi-18)
 
