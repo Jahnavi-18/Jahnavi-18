@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jahnavi-18](https://github.com/Jahnavi-18)
 
-- 💬 Ask me about **Data Science, Testing**
+- 💬 Ask me about **Data Science, Testing, ML**
 
 - 📫 How to reach me **saijahnavi217@gmail.com**
 
